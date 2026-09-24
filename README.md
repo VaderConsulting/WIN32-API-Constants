@@ -20,7 +20,7 @@ Open `API.bas` in Visual Basic 6 as a module, or add it to a VB6 project.
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/WIN32 API Constants`.
+Working copy from my Historical Dev folder `VB/WIN32 API Constants`.
 
 ## License
 
