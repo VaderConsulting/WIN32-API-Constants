@@ -2,7 +2,7 @@
 
 Standalone VB6 `API.bas` module (~64 KB) of Win32 API constant and related declarations for reuse across VB6 projects. Open `API.bas` in the VB6 IDE or add it as a module to a project.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** module / sources
+**Source last updated:** 2003-08-13 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** module / sources
 
 ## Solution structure
 
