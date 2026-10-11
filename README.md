@@ -24,4 +24,4 @@ Working copy from my Historical Dev folder `VB/WIN32 API Constants`.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
